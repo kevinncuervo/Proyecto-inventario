@@ -12,7 +12,7 @@ public class Medicamento {
     public void setPrecio(int precio) { this.precio = precio; }
 
     public String getFechaDeVencimiento() { return fechaDeVencimiento; }
-    public void setFechaDeVencimiento(String fechaDeVencimiento) { this.fechaDeVencimiento = fechaDeVencimiento; }
+    public void setFechaDeVencimiento(String fecha) { this.fechaDeVencimiento = fecha; }
 
     public String getCategoria() { return categoria; }
     public void setCategoria(String categoria) { this.categoria = categoria; }
