@@ -1,0 +1,60 @@
+
+Cliente
+Post
+{
+   "nombre": "Simon Agudelo",
+  "identificacion": "999999999",
+  "correo": "nuevo.correo@email.com",
+  "celular": "3010000000"
+}
+
+
+
+Put
+{
+  "id": 1,
+  "nombre": "Juan Actualizado",
+  "identificacion": "999999999",
+  "correo": "nuevo.correo@email.com",
+  "celular": "3010000000"
+}
+
+Provedor
+Post
+{
+  
+  "nombre": "Distribuciones Alfa",
+  "celular": "3105678912",
+  "correo": "contacto@alfa.com",
+  "direccion": "Calle 123 #45-67",
+  "nit": "901234567"
+}
+
+Put
+{
+  "id": 1,
+  "nombre": "Distribuciones Alfa",
+  "celular": "3105678912",
+  "correo": "contacto@alfa.com",
+  "direccion": "Calle 123 #45-67",
+  "nit": "901234567"
+}
+
+Medicamento
+
+post
+{
+  "nombre": "Ibuprofeno",
+  "precio": 2000,
+  "fechaDeVencimiento": "2025-10-30",
+  "categoria": "Antiinflamatorio"
+}
+
+
+put
+
+  "id":1
+  "nombre": "Ibuprofeno",
+  "precio": 2000,
+  "fechaDeVencimiento": "2025-10-30",
+  "categoria": "Antiinflamatorio"
